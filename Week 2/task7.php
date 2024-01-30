@@ -1,5 +1,5 @@
 <?php
-$foo = "bar";
+
 
 function printLine($line) {
     printLine("Hello World");
