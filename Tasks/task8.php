@@ -13,8 +13,8 @@ $countries_and_capitals = array(
     "India" => "New Delhi"
 );
 
-foreach ($countries_and_capitals as $x => $y) {
-    print "$x : $y \n";
+
+
+foreach ($countries_and_capitals as $country => $countries_and_capitals) {
+    print "The capital city of {$country} is $countries_and_capitals \n";
 }
-
-
