@@ -10,7 +10,7 @@
    <p>Your email address is <?php echo $_POST["email"]; ?>
    <? if (substr($_POST["email"],-8) !== ".invalid") {
     ?><br>Your email adress is valid.<?php
-   <?
+   
    }
    ?>
    </p>
